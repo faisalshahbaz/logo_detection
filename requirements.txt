@@ -1,4 +1,3 @@
---upgrade pip
 imutils
 matplotlib
 numpy
@@ -9,5 +8,5 @@ Pillow
 requests
 streamlit
 streamlit-aggrid
-torch==1.12.1+cu116
+torch
 tweepy
