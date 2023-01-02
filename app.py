@@ -31,9 +31,6 @@ def url_to_numpy(url):
     img = Image.open(BytesIO(requests.get(url).content))
     return cv2.cvtColor(np.array(img), cv2.COLOR_BGR2RGB)
 
-def make_clickable(val):
-    return f'{val}">{val}'
-
 
 st.title("Demo Project - Logo Detection")
 
