@@ -1,3 +1,4 @@
+pip-upgrader
 imutils
 matplotlib
 numpy
