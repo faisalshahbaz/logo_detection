@@ -17,4 +17,5 @@ seaborn
 thop
 scipy
 tensorboard
+PyYAML
 tweepy
