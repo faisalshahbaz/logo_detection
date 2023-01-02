@@ -3,11 +3,12 @@ imutils
 matplotlib
 numpy
 ipython
+psutil
 opencv-python-headless
 pandas
 Pillow
 requests
 streamlit
 streamlit-aggrid
-torch
+torch==1.12.1+cu116
 tweepy
