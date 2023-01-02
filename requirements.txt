@@ -1,4 +1,4 @@
-pip-upgrader
+pip==22.3.1
 imutils
 matplotlib
 numpy
