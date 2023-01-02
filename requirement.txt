@@ -1,0 +1,11 @@
+imutils
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+requests
+streamlit
+streamlit-aggrid
+torch 
+tweepy
