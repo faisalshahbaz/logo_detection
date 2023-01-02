@@ -11,4 +11,10 @@ requests
 streamlit
 streamlit-aggrid
 torch
+torchvision
+tqdm
+seaborn
+thop
+scipy
+tensorboard
 tweepy
