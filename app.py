@@ -9,7 +9,7 @@ import imutils
 from st_aggrid import AgGrid
 from yolomodel import model
 import pandas as pd
-import os
+
 
 #  streamlit run charlielogo_detection.py --server.fileWatcherType none
 
@@ -82,7 +82,7 @@ if st.button('Start Process'):
                 listimg.append(imgurl)
 
     my_bar1.progress(100)
-    st.write(os.path.dirname('image1.jpg'))
+
     data = {
         "CreatedAt": listdate,
         "UserName": listuser,
